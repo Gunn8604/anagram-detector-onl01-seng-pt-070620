@@ -1,6 +1,6 @@
 class Anagram
 
-  attr_accessor :word
+  attr_accessor :word  #created a setter & getter method for word 
 
   def initialize(word)
     @word = word
